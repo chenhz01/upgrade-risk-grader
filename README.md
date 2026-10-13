@@ -6,6 +6,8 @@ and returns a 0–10 score with a level (low/medium/high/critical) and a
 recommended action. If you review dependency bumps in CI, this is for you. If
 you already run full canary deploys on every commit, you probably don't need it.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 "Should we take this upgrade?" gets answered by vibes. A `2.0.0` bump with an
